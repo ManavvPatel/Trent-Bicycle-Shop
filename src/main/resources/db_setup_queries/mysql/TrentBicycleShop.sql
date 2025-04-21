@@ -1,5 +1,5 @@
-CREATE DATABASE InventoryManagement;
-USE InventoryManagement;
+CREATE DATABASE TrentBicycleShopDB;
+USE TrentBicycleShopDB;
 
 -- Users Table (For Authentication & Role Management)
 CREATE TABLE Users (
