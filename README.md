@@ -9,7 +9,7 @@ Originally developed as part of a university project, this system is a follow-up
 
 ---
 
-## Technologies Used
+## Technologies Used (and Required if you wish to run this app locally)
 
 1. Java 17 or above
 2. MySQL (Add MySQL Workbench during installation)
