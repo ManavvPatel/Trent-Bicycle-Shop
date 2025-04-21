@@ -1,3 +1,6 @@
+# Purpose for this project
+The primary goal of this project was to gain hands-on experience with Java-based web application development using the Spring Boot framework. By building a functional system for managing a bicycle shop, I aimed to understand key concepts such as RESTful APIs, database integration, and application configuration. This project also helped reinforce my knowledge of backend logic, MVC architecture, and deployment workflows. It served as a rudimentary practical foundation for developing maintainable Java applications.
+
 # Bicycle Shop Management System (Spring Boot + MS SQL Server)
 
 This is a multi-tier Java-based application designed to manage core operations for a retail bicycle shop. It includes modules for managing customers, products, sales, returns, inventory, suppliers, service transactions, and user accounts with role-based access control.
@@ -39,7 +42,7 @@ Passwords are encrypted using `BCryptPasswordEncoder`.
 
 ## Setting Up the Environment
 
-# For MySQL
+### For MySQL
 
 1. Open a folder attached with this report, named ‘Trent-Bicycle-Shop-MySQL’, in VS code or your choice of IDE.
 2. Open MySQL workbench.
@@ -60,7 +63,7 @@ Passwords are encrypted using `BCryptPasswordEncoder`.
 
   You can press any button that runs the program in your respective IDE.
 
-# For MS SQL
+### For MS SQL
 
 1. Go to SQL server Configuration Manager -> SQL Server Network Configuration -> Protocols for MSSQLSERVER -> Enable TCP/IP
 2. Now, open a folder attached with this report named ‘Trent-Bicycle-Shop-MS-SQL’, in VS code or your choice of IDE.
