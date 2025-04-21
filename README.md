@@ -81,6 +81,7 @@ Passwords are encrypted using `BCryptPasswordEncoder`.
    ./mvnw spring-boot:run
    ```
 If your run is successful, you will see this in terminal:
+
 **[TimeStamp] INFO 62647 --- [trentbicycleshop] [ restartedMain] c.m.t.TrentBicycleshopApplication : Started TrentBicycleshopApplication in 2.143 seconds (process running for 2.367)**
 
 Once you are successful, go to http://localhost:8080/login
