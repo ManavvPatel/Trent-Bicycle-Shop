@@ -5,7 +5,7 @@ The primary goal of this project was to gain hands-on experience with Java-based
 
 This is a multi-tier Java-based application designed to manage core operations for a retail bicycle shop. It includes modules for managing customers, products, sales, returns, inventory, suppliers, service transactions, and user accounts with role-based access control.
 
-Originally developed as part of a university project, this system is a follow-up to a prototype created in Microsoft Access (Project 1) and has been redesigned using Spring Boot and MS SQL Server to support a scalable, secure, and modular architecture.
+Originally developed as part of a university project, this system is a follow-up to a prototype created in Microsoft Access.
 
 ---
 
