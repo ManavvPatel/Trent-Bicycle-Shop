@@ -56,7 +56,7 @@ Passwords are encrypted using `BCryptPasswordEncoder`.
    ./mvnw spring-boot:run
    ```
 
-       or
+   or
 
   You can press any button that runs the program in your respective IDE.
 
