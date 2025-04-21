@@ -69,10 +69,10 @@ Passwords are encrypted using `BCryptPasswordEncoder`.
 5. Run the whole script.
 6. Go back to your IDE and in your resources folder, you will find ‘application.properties’ where you must change the username and password.
 
-  ```
-  spring.datasource.username=yourusername
-  spring.datasource.password=yourpw
-  ```
+   ```
+   spring.datasource.username=yourusername
+   spring.datasource.password=yourpw
+   ```
 
 7. Additionally, make sure the use you add here does exist in SSMS with permissions to connect SQL. If not, then on the left in SSMS, under Object Explorer, right click on your server and go to properties. In properties, go to permissions and select the username you chose in ‘application.properties’ and grant them permission to ‘Connect SQL’.
 8. Run the application from terminal at the root folder which is ‘Trent-Bicycle-Shop-MySQL’ using:
